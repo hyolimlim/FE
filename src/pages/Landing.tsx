@@ -5,6 +5,7 @@ const Landing = () => {
   return (
     <div className="w-full bg-[#DDDBE9] h-full">
       <LandingHeader />
+      <p>test</p>
     </div>
   );
 };
